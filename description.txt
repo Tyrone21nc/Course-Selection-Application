@@ -1,0 +1,11 @@
+NOTE: This basic information about courses priority for registration was received from ChatGPT
+
+Most colleges use a priority system, then open remaining seats FCFS. Priority is usually based on:
+- Class standing (seniors → juniors → sophomores → freshmen)
+- Major/minor requirements
+- Honors programs, athletes, or special cohorts
+- Credit count or graduation proximity
+- Accommodations (e.g., DSS)
+After priority windows close, registration often becomes open/FCFS until courses fill. Policies vary by school, 
+but seniors registering first is the most common model.
+
